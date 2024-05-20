@@ -10,3 +10,7 @@ h1 {
     font-size: 48px;
     color: red;
 }
+
+.text {
+    font-style: italic;
+}
